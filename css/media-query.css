@@ -1,0 +1,45 @@
+
+/* Extra Small Devices */
+@media (max-width: 767px) {
+	#foo {
+		color: red;
+	}
+
+	/* Put extra codes here */
+}
+
+/* Small Devices */
+@media (min-width: 768px) and (max-width: 991px) {
+	#foo {
+		color: blue;
+	}
+
+	/* Put extra codes here */
+}
+
+/* Medium Devices */
+@media (min-width: 992px) and (max-width: 1199px) {
+	#foo {
+		color: green;
+	}
+
+	/* Put extra codes here */
+}
+
+/* Large Devices */
+@media (min-width: 1200px) {
+	#foo {
+		color: orange;
+	}
+
+	/* Put extra codes here */
+}
+
+/* Custom Devices */
+@media (min-width: 425px) and (max-width: 1024px) {
+	#foo-container {
+		display: none;
+	}
+
+	/* Put extra codes here */
+}

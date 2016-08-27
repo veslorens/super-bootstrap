@@ -1,0 +1,6 @@
+.label.label-primary, 
+.label.label-success {
+    padding: 10px 20px;
+    font-size: 100%;
+    border-radius: 3.25em;
+}

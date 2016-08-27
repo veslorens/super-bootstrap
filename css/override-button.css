@@ -1,0 +1,30 @@
+/*.btn {
+    border-radius: 30px;
+    border: 3px solid black !important;
+}*/
+
+.btn-primary.override-me {
+	color: #fff;
+    background-color: #8500ff;
+    border-color: #53009e;
+}
+
+.btn-primary.override-me:hover {
+	background-color: #510a92;
+}
+
+.btn-primary.light {
+	background-color: #3f95de;
+}
+
+.btn-primary.light:hover {
+	background-color: #2d74b1;
+}
+
+.btn-primary.dark {
+	background-color: #123e65;
+}
+
+.btn-primary.dark:hover {
+	background-color: #071929;
+}
